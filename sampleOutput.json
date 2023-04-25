@@ -1,0 +1,89 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": { "id": "google-news-ar", "name": "Google News (Argentina)" },
+      "author": "Boca Juniors en TyCSports.com",
+      "title": "Con tres goles de Benedetto, Boca ganó la Supercopa Argentina: resumen y más - Boca Juniors en TyCSports.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnR5Y3Nwb3J0cy5jb20vYm9jYS1qdW5pb3JzL2JvY2EtcGF0cm9uYXRvLXN1cGVyY29wYS1hcmdlbnRpbmEtLWlkNDk1ODg1Lmh0bWzSAVxodHRwczovL3d3dy50eWNzcG9ydHMuY29tL2FtcC9ib2NhLWp1bmlvcnMvYm9jYS1wYXRyb25hdG8tc3VwZXJjb3BhLWFyZ2VudGluYS0taWQ0OTU4ODUuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-02T02:25:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "Le flash sports du 2 mars",
+      "description": "Retrouvez toute l'actualité sportive dans votre flash quotidien.",
+      "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-2-mars/1383567",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/le-flash-sports-l-equipe/1500000001755679/0:0,1997:1331-640-427-75/de0e4.jpg",
+      "publishedAt": "2023-03-01T23:30:25+00:00",
+      "content": "Just Fontaine est décédé à 89 ans. L'OM sorti de la Coupe de France par la petite porte contre Annecy (1-2). Arsenal reprend le large en Premier League. Pavel Sivakov vise Paris-Nice. Toute l'actuali… [+37 chars]"
+    },
+    {
+      "source": { "id": "rtl-nieuws", "name": "RTL Nieuws" },
+      "author": "RTL Nieuws",
+      "title": "Elke dag 11 minuten wandelen kan je leven verlengen: 'Iedere stap telt'",
+      "description": "Een stevige wandeling van 11 minuten per dag zou één op de tien vroegtijdige sterfgevallen wereldwijd kunnen voorkomen. Dat blijkt uit een groot onderzoek van de Universiteit van Cambridge dat is gepubliceerd in het British Journal of Sports Medicine. \"Je hoe…",
+      "url": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5368898/elf-minuten-wandelen-dag-kan-je-leven-verlengen-elke-stap-telt",
+      "urlToImage": "https://www.rtlnieuws.nl/sites/default/files/content/images/2023/03/01/ANP-460628147.jpg?itok=t0SKDNNf&width=2048&height=1152&impolicy=semi_dynamic",
+      "publishedAt": "2023-03-01T13:28:03+00:00",
+      "content": "Het laatste officiële advies in Nederland kwam in 2017 van de Gezondheidsraad. Daarin staat dat je 150 minuten per week, verdeeld over meer dagen, 'matig intensief' moet bewegen. Dat is twee keer mee… [+1225 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "Melissa Rohlin",
+      "title": "Joel Embiid focused on winning title, not MVP: 'I just want to be respected'",
+      "description": "In a FOX Sports exclusive, Joel Embiid said he's past the disappointment of not winning NBA MVP — instead, he will earn his respect by winning a ring.",
+      "url": "http://www.foxsports.com/stories/nba/joel-embiid-focused-on-winning-title-not-mvp-i-just-want-to-be-respected",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/03/1408/814/2.28.23_Joel-Embiid-on-being-constantly-overlooked_Horizontal-copy.jpg?ve=1&tl=1",
+      "publishedAt": "2023-03-01T09:45:19Z",
+      "content": "Joel Embiid has long made it clear how much winning the NBA MVP award would mean to him. \r\nHe has campaigned for the honor with both his words and his play. And after repeatedly falling short despite… [+9629 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "☄️ New &#x27;Hero Ball&#x27; Episode ☄️",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/371669-hero-ball-2023-allstar-special",
+      "urlToImage": null,
+      "publishedAt": "2023-02-22T21:52:16.6066431Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+      "urlToImage": null,
+      "publishedAt": "2022-12-01T18:52:49.4768049Z",
+      "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2022-08-30T16:37:43.8583104Z",
+      "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Daily Briefing",
+      "description": "The day's top stories, from sports to movies to politics to world events.",
+      "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+      "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+      "publishedAt": "2021-08-15T15:35:07+00:00",
+      "content": "The day's top stories, from sports to movies to politics to world events."
+    }
+  ]
+}
